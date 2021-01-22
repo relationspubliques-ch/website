@@ -5,7 +5,7 @@
 
 Mon expérience dans la conduite de mandats de communication et mes activités professionnelles m’ont mené à mettre en place une méthode en quatre étapes afin de répondre aux défis des relations publiques que peuvent rencontrer les entreprises et associations. Cette méthode vise à les accompagner de manière optimale afin de les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
 
-[Prenez contact](https://#)
+[Prenez contact](mailto:info@relationspubliques.ch)
 
 # Quatre étapes pour améliorer l’impact de vos actions
 
