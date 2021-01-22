@@ -85,7 +85,7 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 ## Contact
 
-Vous souhaitez parler des défis de communication auxquels vous êtes confrontés ? <br/>Parlons-en autour d’un café.
+Vous souhaitez améliorer votre stratégie de communication ? Vous désirez aborder une situation à laquelle vous êtes confronté ? <br/>Parlons-en autour d’un café.
 
 ### Loïc Favre
 
