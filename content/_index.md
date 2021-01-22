@@ -45,13 +45,13 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 #### 3
 
-## Se faire connaitre et reconnaitre
+## Se faire connaitre et reconnaître
 
 ### Piloter les actions de communication
 
 * Communication interne
 * Communication externe
-* Opportunités
+* Relations presse
 
 </div>
 <div class="box">
@@ -62,7 +62,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 ### Se former et devenir autonome
 
-* Organisation
+* Organisation optimale
 * Indicateurs clés
 * Formation
 
@@ -92,7 +92,7 @@ Vous souhaitez améliorer votre stratégie de communication ? Vous désirez abor
 #### **Consultant en relations publiques**
 
 Chemin des Faverges, 1006 Lausanne <br/>   
-[info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [+41 79 301 86 92](tel:0793018692)<br/> <br/> <br/>
+[info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [+41 79 301 86 92](tel:0793018692)<br/> [LinkedIn](https://www.linkedin.com/in/loicfavre)<br/> <br/>
 
 </div>
 </footer>
