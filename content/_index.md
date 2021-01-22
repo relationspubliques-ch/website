@@ -3,7 +3,9 @@
 +++
 # Précisez votre stratégie de communication
 
-Mon expérience dans la conduite de mandats de communication et mes activités professionnelles m’ont mené à mettre en place une méthode en quatre étapes afin de répondre aux défis des relations publiques que peuvent rencontrer les entreprises et associations. Cette méthode vise à les accompagner de manière optimale afin de les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
+Développer une image valorisante et assurer une communication cohérente est un défi qui nécessite une attention particulière et la mise en œuvre d’actions innovantes.
+
+Afin de répondre aux défis rencontrés dans le domaine des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** afin de les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
 
 [Prenez contact](mailto:info@relationspubliques.ch)
 
