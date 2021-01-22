@@ -74,7 +74,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
-[Lire l’article](https://#)
+[Lire l’article](#) (prochainement)
 
 </div>
 
