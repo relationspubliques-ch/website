@@ -3,7 +3,7 @@
 +++
 # Précisez votre stratégie de communication
 
-Développer une image valorisante et assurer une communication cohérente est un défi qui nécessite une attention particulière et la mise en œuvre d’actions innovantes.
+Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
 
 Afin de répondre aux défis rencontrés dans le domaine des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** afin de les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
 
