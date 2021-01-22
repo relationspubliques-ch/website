@@ -15,6 +15,8 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 <div class="boxes">
 <div class="box">
 
+#### 1
+
 ## Se positionner et formuler un message
 
 ### Analyser et se démarquer 
@@ -23,10 +25,11 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 - Message map
 - Stratégie de communication
 
-#### 1
 
 </div>
 <div class="box">
+
+#### 2
 
 ## Créer un contenu pertinent
 
@@ -36,10 +39,11 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 - Création des contenus
 - Optimisation des supports
 
-#### 2
  
 </div>
 <div class="box">
+
+#### 3
 
 ## Se faire connaitre et reconnaitre 
 
@@ -49,10 +53,11 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 - Communication externe
 - Opportunités de communication
 
-#### 3
 
 </div>
 <div class="box">
+
+#### 4
 
 
 ## Intégrer les compétences 
@@ -62,7 +67,6 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 - Indicateurs
 - Formation
 
-#### 4
 
 </div>
 </div>

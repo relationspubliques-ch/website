@@ -81,7 +81,7 @@ header{
   display: flex;
   align-items: flex-end;
   margin-bottom: 2em;
-  background: black url(/loic_favre.jpg) right bottom no-repeat;
+  background: black url(/loic_favre.jpg) 100% 100% no-repeat;
   background-size: contain;
 }
 header h1{
@@ -104,6 +104,7 @@ header h1 i{
 .boxes {
   max-width: 60em;
   margin: 2em auto 5em;
+  padding: 0 1em;
   display: grid;
   grid-gap: 2em 2em;
   grid-template-columns: repeat(auto-fit, minmax(min(20em, 100%), 1fr));
@@ -113,9 +114,13 @@ header h1 i{
   background-color: var(--mikado-yellow);
   position: relative;
 }
+.box *{
+  position: relative;
+}
 .box h4{
   font-weight: 900;
   position: absolute;
+  z-index: 0;
   bottom: -0.15em;
   right: 0.25em;
   padding: 0;
