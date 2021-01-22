@@ -90,7 +90,7 @@ Vous souhaitez parler des défis de communication auxquels vous êtes confronté
 #### **Consultant en relations publiques**
 
 [info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/>
-[079 301 86 92](tel:0793018692)
+[079 301 86 92](tel:0793018692)<br/>
 
 </div>
 </footer>
