@@ -25,7 +25,6 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 * Message map
 * Stratégie de communication
 
-
 </div>
 <div class="box">
 
@@ -39,34 +38,31 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 * Création des contenus
 * Optimisation des supports
 
- 
 </div>
 <div class="box">
 
 #### 3
 
-## Se faire connaitre et reconnaitre 
+## Se faire connaitre et reconnaitre
 
 ### Piloter les actions de communications
 
 * Communication interne
 * Communication externe
-* Opportunités de communication
-
+* Opportunités
 
 </div>
 <div class="box">
 
 #### 4
 
-## Intégrer les compétences 
+## Intégrer les compétences
 
 ### Se former et devenir autonome
 
 * Organisation
 * Indicateurs
 * Formation
-
 
 </div>
 </div>
