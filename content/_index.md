@@ -45,7 +45,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 ## Se faire connaitre et reconnaitre
 
-### Piloter les actions de communications
+### Piloter les actions de communication
 
 * Communication interne
 * Communication externe
@@ -61,7 +61,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 ### Se former et devenir autonome
 
 * Organisation
-* Indicateurs
+* Indicateurs clés
 * Formation
 
 </div>
@@ -74,7 +74,8 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
-[Lire plus](https://#)
+[Lire l’article](https://#)
+
 </div>
 
 <div class="article">
