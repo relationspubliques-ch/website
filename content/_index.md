@@ -78,15 +78,6 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 </div>
 
-<div class="article">
-
-## Communiquer en temps de crise
-
-Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
-
-[Lire plus](https://#)
-</div>
-
 <footer class="container-full">
 <div class="container">
 
