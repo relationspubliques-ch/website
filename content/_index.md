@@ -91,8 +91,10 @@ Vous souhaitez parler des défis de communication auxquels vous êtes confronté
 
 #### **Consultant en relations publiques**
 
-[info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/>
-[079 301 86 92](tel:0793018692)<br/>
+Faverges 18<br/>   
+1006 Lausanne <br/>   
+[info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [  
+\+41 79 301 86 92](tel:0793018692)<br/>
 
 </div>
 </footer>
