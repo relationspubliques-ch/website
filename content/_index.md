@@ -1,6 +1,7 @@
++++
 
-# Préciser votre stratégie de communication 
-
++++
+# Précisez votre stratégie de communication
 
 Mon expérience dans la conduite de mandats de communication et mes activités professionnelles m’ont mené à mettre en place une méthode en quatre étapes afin de répondre aux défis des relations publiques que peuvent rencontrer les entreprises et associations. Cette méthode vise à les accompagner de manière optimale afin de les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
 
@@ -10,18 +11,17 @@ Mon expérience dans la conduite de mandats de communication et mes activités p
 
 Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre les actions de communication adéquates de manière autonome.
 
-
 <div class="container-full">
 <div class="boxes">
 <div class="box">
 
 ## Se positionner et formuler un message
 
-### Analyser et se démarquer 
+### Analyser et se démarquer
 
-- Diagnostic stratégique 
-- Message map
-- Stratégie de communication
+* Diagnostic stratégique
+* Message map
+* Stratégie de communication
 
 #### 1
 
@@ -30,37 +30,37 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 ## Créer un contenu pertinent
 
-### Travailler la forme et le fond 
+### Travailler la forme et le fond
 
-- Identité graphique 
-- Création des contenus
-- Optimisation des supports
+* Identité graphique
+* Création des contenus
+* Optimisation des supports
 
 #### 2
- 
+
 </div>
 <div class="box">
 
-## Se faire connaitre et reconnaitre 
+## Se faire connaitre et reconnaitre
 
-### Piloter les actions de communications 
+### Piloter les actions de communications
 
-- Communication interne 
-- Communication externe
-- Opportunités de communication
+* Communication interne
+* Communication externe
+* Opportunités de communication
 
 #### 3
 
 </div>
 <div class="box">
 
-
-## Intégrer les compétences 
+## Intégrer les compétences
 
 ### Se former et devenir autonome
-- Organisation 
-- Indicateurs
-- Formation
+
+* Organisation
+* Indicateurs
+* Formation
 
 #### 4
 
@@ -70,18 +70,18 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 <div class="article">
 
-## Communiquer en temps de crise 
+## Communiquer en temps de crise
 
-Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires. 
+Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
 [Lire plus](https://#)
 </div>
 
 <div class="article">
 
-## Communiquer en temps de crise 
+## Communiquer en temps de crise
 
-Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires. 
+Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
 [Lire plus](https://#)
 </div>
@@ -90,7 +90,8 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 <div class="container">
 
 ## Contact
-Vous souhaitez parler des défis de communication auxquels vous êtes confrontés ? <br/>Parlons-en autour d’un café. 
+
+Vous souhaitez parler des défis de communication auxquels vous êtes confrontés ? <br/>Parlons-en autour d’un café.
 
 ### Loïc Favre
 
