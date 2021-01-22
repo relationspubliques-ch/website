@@ -1,0 +1,10 @@
+baseURL = "https://relationspubliques.ch/"
+languageCode = "fr-ch"
+title = "Relationspubliques.ch - Consultant en communication"
+theme = "rp"
+
+
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
