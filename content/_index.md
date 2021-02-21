@@ -78,29 +78,6 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 [Lire l’article](#) (prochainement)
 
-## Kit 1
-
-### titre
-
-* 1
-* 2
-* 3
-
-</div>
-<div class="box">
-  
-## Kit 2
-
-### titre
-
-* 1
-* 2
-* 3
-
-</div>
-<div class="box">
-  
-</div>
 
 <footer class="container-full">
 <div class="container">
