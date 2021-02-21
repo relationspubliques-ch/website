@@ -83,6 +83,36 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 <footer class="container-full">
 <div class="container">
 
+# Quatre étapes pour améliorer l’impact de vos actions
+
+Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre les actions de communication adéquates de manière autonome.
+
+<div class="container-full"> <div class="boxes"> <div class="box">
+
+#### 1
+
+## Se positionner et formuler un message
+
+### Analyser et se démarquer
+
+* Diagnostic stratégique
+* Message map
+* Stratégie de communication
+
+</div> <div class="box">
+
+#### 2
+
+## Créer un contenu pertinent
+
+### Travailler la forme et le fond
+
+* Identité graphique
+* Création des contenus
+* Optimisation des supports
+
+</div> <div class="box">
+
 ## Contact
 
 Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou mettre en place des actions pertinentes dans votre contexte ? **Parlons-en autour d’un café.**
@@ -91,7 +121,7 @@ Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou m
 
 #### **Consultant en relations publiques**
 
-Chemin des Faverges, 1006 Lausanne <br/>   
+Chemin des Faverges, 1006 Lausanne <br/>  
 [info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [+41 79 301 86 92](tel:0793018692)<br/> [LinkedIn](https://www.linkedin.com/in/loicfavre)<br/> <br/>  <br/>  <br/>
 
 </div>
