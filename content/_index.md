@@ -78,40 +78,32 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 [Lire l’article](#) (prochainement)
 
+## Kit 1
+
+### titre
+
+* 1
+* 2
+* 3
+
+</div>
+<div class="box">
+  
+## Kit 2
+
+### titre
+
+* 1
+* 2
+* 3
+
+</div>
+<div class="box">
+  
 </div>
 
 <footer class="container-full">
 <div class="container">
-
-# Quatre étapes pour améliorer l’impact de vos actions
-
-Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre les actions de communication adéquates de manière autonome.
-
-<div class="container-full"> <div class="boxes"> <div class="box">
-
-#### 1
-
-## Se positionner et formuler un message
-
-### Analyser et se démarquer
-
-* Diagnostic stratégique
-* Message map
-* Stratégie de communication
-
-</div> <div class="box">
-
-#### 2
-
-## Créer un contenu pertinent
-
-### Travailler la forme et le fond
-
-* Identité graphique
-* Création des contenus
-* Optimisation des supports
-
-</div> <div class="box">
 
 ## Contact
 
