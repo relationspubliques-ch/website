@@ -88,19 +88,6 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou mettre en place des actions pertinentes dans votre contexte ? **Parlons-en autour d’un café.**
   
-<div class="box">
-
-#### 2
-
-## Créer un contenu pertinent
-
-### Travailler la forme et le fond
-
-* Identité graphique
-* Création des contenus
-* Optimisation des supports
-
-</div>
 
 ### Loïc Favre
 
