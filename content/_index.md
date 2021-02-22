@@ -80,20 +80,6 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 </div>
 
-## Formule START  
-
-<div class="container-full">
-<div class="boxes">
-<div class="box" style="padding-top:2em;">
-
-### Kit START
-
-### xx
-
-xxx
-
-</div>
-
 
 <footer class="container-full">
 <div class="container">
