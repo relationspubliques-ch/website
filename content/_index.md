@@ -7,7 +7,7 @@ Développer une image valorisante et assurer une communication cohérente sont d
 
 Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
 
-[Prenez contact](mailto:info@relationspubliques.ch)
+[Prenez contact](#Contact)
 
 # Quatre étapes pour améliorer l’impact de vos actions
 
