@@ -110,7 +110,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 <footer class="container-full">
 <div class="container">
 
-## Contact
+# Contact
 
 Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou mettre en place des actions pertinentes dans votre contexte ? **Parlons-en autour d’un café.**
 
