@@ -72,7 +72,13 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 <div class="article">
 
-# « Ne pas communiquer, c'est aussi communiquer » 
+<div class="container-full image-full">
+
+![](/uploads/idea_lf.jpg)
+
+</div>
+
+# « Ne pas communiquer, c'est aussi communiquer »
 
 Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi, particulièrement en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
@@ -100,10 +106,10 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 * Création de 26 publications (photos et textes)
 * Mise en place d’une newsletter en « automation »
-* Production d’une vidéo de fin d’année   
+* Production d’une vidéo de fin d’année  
   (3 déclinaisons pour les réseaux sociaux)
 
-  </div> 
+  </div>
 
 </div> </div> </div>
 
