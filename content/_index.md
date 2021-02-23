@@ -72,6 +72,48 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 <div class="article">
 
+## Optez pour un kit de communication
+
+Un accompagnement global n’est pas toujours abordable ou ne s’impose pas comme une priorité. Optez alors pour un kit de communication qui vous permettra de maîtriser vos coûts, améliorer rapidement votre visibilité et consolider votre stratégie au fil des expériences.
+
+[Lire l’article](#) (prochainement)
+
+</div>
+
+<div class="box">
+
+#### A
+
+## Starter kit
+
+### La formule pour bien commencer
+
+* Positionnement narratif
+* Stratégie de contenu
+* Configuration d’un réseau social
+* Mise en place d’un système de newsletter
+* Formation et rapports des performances
+
+  </div>
+
+<div class="box">
+
+#### A
+
+## Starter kit
+
+### La formule pour bien commencer
+
+* Positionnement narratif
+* Stratégie de contenu
+* Configuration d’un réseau social
+* Mise en place d’un système de newsletter
+* Formation et rapports des performances
+
+  </div>
+
+<div class="article">
+
 ## Communiquer en temps de crise
 
 Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
@@ -79,7 +121,6 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 [Lire l’article](#) (prochainement)
 
 </div>
-
 
 <footer class="container-full">
 <div class="container">
