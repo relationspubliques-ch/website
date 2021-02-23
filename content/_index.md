@@ -100,8 +100,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 * Création de 26 publications (photos et textes)
 * Mise en place d’une newsletter en « automation »
-* Production d’une vidéo de fin d’année  
-  (3 déclinaisons pour les réseaux sociaux)
+* Production d’une vidéo (3 déclinaisons pour les réseaux sociaux)
 
   </div>
 
