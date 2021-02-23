@@ -70,7 +70,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 </div>
 </div>
 
-<div class="container-full"> <div class="boxes"> <div class="box">
+<div class="boxes"> <div class="box">
 
 <div class="article">
 
@@ -81,8 +81,6 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 </div>
 
 <div class="box">
-
-#### A
 
 ## Starter kit
 
@@ -98,8 +96,6 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 <div class="box">
 
-#### A
-
 ## Advanced content kit
 
 ### Consolidez votre stratégie au fil des expériences
@@ -110,8 +106,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
   </div>
 
-  </div>   
-  </div>
+  </div> 
 
 <div class="article">
 
