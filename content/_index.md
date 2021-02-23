@@ -70,7 +70,9 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 </div>
 </div>
 
-<div class="boxes"> <div class="box">
+<div class="container-full">  
+<div class="boxes">   
+<div class="box">
 
 <div class="article">
 
@@ -104,9 +106,9 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 * Mise en place d’une newsletter en « automation"
 * Production d’une vidéo de fin d’année 
 
+  </div>   
+  </div>   
   </div>
-
-  </div> 
 
 <div class="article">
 
