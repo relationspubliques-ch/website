@@ -76,9 +76,11 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 Un accompagnement global n’est pas toujours abordable ou ne s’impose pas comme une priorité. Optez alors pour un kit de communication qui vous permettra de maîtriser vos coûts, améliorer rapidement votre visibilité et consolider votre stratégie au fil des expériences.
 
-## Starter kit
+</div>
 
-### Améliorez rapidement votre visibilité
+<div class="box">
+
+## Starter kit
 
 * Positionnement narratif
 * Stratégie de contenu
@@ -86,13 +88,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 * Mise en place d’un système de newsletter
 * Formation et rapports des performances
 
-  </div>
-
-<div class="box">
-
 ## Advanced content kit
-
-### Consolidez votre stratégie au fil des expériences
 
 * Création de 26 posts (photos et textes)
 * Mise en place d’une newsletter en « automation"
