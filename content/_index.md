@@ -74,7 +74,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 <div class="container-full image-full">
 
-![](/uploads/idea_lf.jpg)
+![](/uploads/banner.jpg)
 
 </div>
 
