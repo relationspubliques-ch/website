@@ -101,7 +101,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 <div class="article">
 
-## Communiquer en temps de crise
+# « Ne pas communiquer, c'est aussi communiquer » 
 
 Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
