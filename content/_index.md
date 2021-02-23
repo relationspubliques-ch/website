@@ -90,9 +90,10 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 ## Advanced content kit
 
-* Création de 26 posts (photos et textes)
-* Mise en place d’une newsletter en « automation"
-* Production d’une vidéo de fin d’année 
+* Création de 26 publications (photos et textes)
+* Mise en place d’une newsletter en « automation »
+* Production d’une vidéo de fin d’année   
+  (3 déclinaisons pour les réseaux sociaux)
 
   </div> 
 
