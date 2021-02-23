@@ -70,13 +70,13 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 </div>
 </div>
 
-<div class="article">
-
 <div class="container-full image-full">
 
 ![](/uploads/banner.jpg)
 
 </div>
+
+<div class="article">
 
 # « Ne pas communiquer, c'est aussi communiquer »
 
