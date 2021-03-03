@@ -80,7 +80,7 @@ Maintenir une communication efficace entre toutes les parties prenantes est un v
 
 <div class="container-full"> <div class="boxes"> <div class="box">
 
-## **Optez pour un kit de communication**
+## Optez pour un kit de communication
 
 Un accompagnement global n’est pas toujours abordable ou ne s’impose pas comme une priorité. Optez alors pour un kit de communication qui vous permettra de maîtriser vos coûts, améliorer rapidement votre visibilité et consolider votre stratégie au fil des expériences.
 
