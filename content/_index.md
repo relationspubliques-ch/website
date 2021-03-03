@@ -72,7 +72,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 <div class="article">
 
-# « Ne pas communiquer, c'est aussi communiquer »
+# Ne pas communiquer, c'est aussi communiquer
 
 Maintenir une communication efficace entre toutes les parties prenantes est un véritable défi, particulièrement en temps de crise. Les relations publiques doivent non seulement être authentiques mais également rejoindre la dimension affective des destinataires.
 
