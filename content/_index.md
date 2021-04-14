@@ -92,7 +92,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 * Positionnement narratif
 * Stratégie de contenu
-* Plan de communication
+* Plan de communication simplifié
 
 ## Advanced content kit
 
