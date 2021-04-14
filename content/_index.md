@@ -92,15 +92,14 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 * Positionnement narratif
 * Stratégie de contenu
-* Configuration d’un réseau social
-* Mise en place d’un système de newsletter
-* Formation et rapports des performances
+* Plan de communication
 
 ## Advanced content kit
 
 * Création de 26 publications (photos et textes)
-* Mise en place d’une newsletter en « automation »
 * Production d’une vidéo (3 déclinaisons pour les réseaux sociaux)
+* Mise en place d’un système de newsletter
+* Formation et rapports des performances
 
   </div>
 
@@ -115,7 +114,6 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 # Contact
 
 Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou mettre en place des actions pertinentes dans votre contexte ? **Parlons-en autour d’un café.**
-
 
 ### Loïc Favre
 
