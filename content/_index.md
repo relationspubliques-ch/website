@@ -98,7 +98,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 * Conception d’une identité visuelle
 * Création de 25 publications (photos et textes) pour les réseaux sociaux
-* Production d’une vidéo (trois déclinaisons) pour les réseaux sociaux
+* Production d’une vidéo (trois déclinaisons) 
 * Mise en place d’un système de newsletter et d’un site web
 * Formation et rapports des performances
 
