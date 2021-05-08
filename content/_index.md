@@ -96,9 +96,10 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 ## Advanced content kit
 
-* Création de 26 publications (photos et textes)
+* Conception d’une identité visuelle
+* Création de 25 publications (photos et textes)
 * Production d’une vidéo (trois déclinaisons pour les réseaux sociaux)
-* Mise en place d’un système de newsletter
+* Mise en place d’un système de newsletter et d’un site web
 * Formation et rapports des performances
 
   </div>
