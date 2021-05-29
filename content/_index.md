@@ -1,8 +1,6 @@
 +++
 
 +++
-# Précisez votre stratégie de communication
-
 Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
 
 Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
@@ -98,7 +96,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 * Conception d’une identité visuelle
 * Création de 25 publications (photos et textes) pour les réseaux sociaux
-* Production d’une vidéo (trois déclinaisons) 
+* Production d’une vidéo (trois déclinaisons)
 * Mise en place d’un système de newsletter et d’un site web
 * Formation et rapports des performances
 
