@@ -6,9 +6,7 @@
 <img src="/uploads/header_loic_favre.jpg" alt="Loïc Favre - Consultant en relations publiques en discussion">
 <div>
 
-# Précisez votre stratégie de communication
-  
-
+# Pourquoi élaborer une stratégie de communication ?
 
 Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
 
@@ -117,7 +115,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 </div> </div> </div>
 
-# Assurer la performance de votre communication 
+# Assurez la performance de votre communication 
 
 Concevez un tableau de bord adapté et exploiter le efficacement.
 
