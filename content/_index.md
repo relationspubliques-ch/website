@@ -117,7 +117,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 # Assurez la performance de votre communication 
 
-Concevez un tableau de bord adapté et exploiter le efficacement.
+Définissez des objectifs de communication concrets et mesurables. Pilotez avec des indicateurs clés intégrés à un tableau de bord adapté à vos besoin.  
 
 
 <footer class="container-full">
