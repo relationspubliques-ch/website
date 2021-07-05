@@ -115,9 +115,9 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 </div> </div> </div>
 
-# Quatre étapes pour améliorer l’impact de vos actions
+# Assurer la performance de votre communication 
 
-Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre les actions de communication adéquates de manière autonome.
+Concevez un tableau de bord adapté et exploiter le efficacement.
 
 
 <footer class="container-full">
