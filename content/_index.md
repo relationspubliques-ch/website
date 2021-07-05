@@ -1,25 +1,24 @@
 +++
 
 +++
-
 <div class="container-full">
 <div class="teaser">
-  <img src="/uploads/header_loic_favre.jpg" alt="Loïc Favre - Consultant en relations publiques en discussion">
-  <div>
-  
+<img src="/uploads/header_loic_favre.jpg" alt="Loïc Favre - Consultant en relations publiques en discussion">
+<div>
+
 # Précisez votre stratégie de communication
   
-  Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
-  
-  Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
-  
-    
-  [Prenez contact](mailto:info@relationspubliques.ch)
-    
-  </div>
-</div>
-</div>
 
+
+Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
+
+Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
+
+[Prenez contact](mailto:info@relationspubliques.ch)
+
+</div>
+</div>
+</div>
 
 # Quatre étapes pour améliorer l’impact de vos actions
 
@@ -118,6 +117,11 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 </div> </div> </div>
 
+# Assurer la performance de votre communication 
+
+Concevez un tableau de bord adapté et exploiter le efficacement.
+
+
 <footer class="container-full">
 <div class="container">
 
@@ -138,7 +142,7 @@ Chemin des Faverges, 1006 Lausanne <br/>
 
 </div>
 
-<img src="/uploads/l3.jpg"/>
+<img src="/uploads/lf_contact.png"/>
 
 </div>
 
