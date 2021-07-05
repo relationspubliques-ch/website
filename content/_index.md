@@ -1,13 +1,27 @@
 +++
 
 +++
+
+
+<div class="container-full">
+<div class="teaser">
+  <img src="/uploads/header_loic_favre.jpg" alt="Loïc Favre - Consultant en relations publiques en discussion">
+  <div>
+  
 # Précisez votre stratégie de communication
+  
+  Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
+  
+  
+  «&nbsp;Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.&nbsp;»
+  <i>Loïc Favre, consultant en relations publiques</i>
+    
+  [Prenez contact](mailto:info@relationspubliques.ch)
+    
+  </div>
+</div>
+</div>
 
-Développer une image valorisante et assurer une communication cohérente sont des défis qui nécessitent une attention particulière et la mise en œuvre d’actions innovantes.
-
-Afin de répondre aux enjeux des relations publiques, je propose une méthode en quatre étapes pour **accompagner les entreprises et associations** et les rendre autonome dans la conception, la mise en œuvre et le suivi de leur stratégie de communication.
-
-[Prenez contact](mailto:info@relationspubliques.ch)
 
 # Quatre étapes pour améliorer l’impact de vos actions
 
@@ -108,8 +122,9 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 <footer class="container-full">
 <div class="container">
 
+<div class="footer-container">
+
 <div>
-<img src="/uploads/l3.jpg" align="right" style="float: right;width: 44vw;margin-left:2em; margin-bottom:2em;max-width: 400px"/>
 
 # Contact
 
@@ -121,6 +136,11 @@ Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou m
 
 Chemin des Faverges, 1006 Lausanne <br/>  
 [info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [+41 79 301 86 92](tel:0793018692)<br/> [LinkedIn](https://www.linkedin.com/in/loicfavre)<br/> <br/>  <br/>  <br/>
+
+</div>
+
+<img src="/uploads/l3.jpg"/>
+
 </div>
 
 </div>
