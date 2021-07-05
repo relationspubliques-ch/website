@@ -134,7 +134,7 @@ Vous souhaitez améliorer votre stratégie de communication, faire évoluer ou m
 
 #### **Consultant en relations publiques**
 
-1006 Lausanne <br/>  
+Lausanne, Vaud, Suisse <br/>  
 [info@relationspubliques.ch](mailto:info@relationspubliques.ch)<br/> [+41 79 301 86 92](tel:0793018692)<br/> [LinkedIn](https://www.linkedin.com/in/loicfavre)<br/> <br/>  <br/>  <br/>
 
 </div>
