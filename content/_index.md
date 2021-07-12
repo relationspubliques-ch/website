@@ -139,7 +139,7 @@ Lausanne, Vaud, Suisse <br/>
 
 </div>
 
-<img src="/uploads/lf_contact.png"/>
+<img src="/uploads/lf_contact.jpg"/>
 
 </div>
 
