@@ -54,7 +54,7 @@ Identifiez vos forces, formulez votre proposition de valeurs et mettez en œuvre
 
 #### 3
 
-## Se faire connaitre et reconnaître
+## Se faire connaître et reconnaître
 
 ### Piloter les actions de communication
 
@@ -115,9 +115,9 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 </div> </div> </div>
 
-# Assurez la performance de votre communication 
+# Assurez la performance de votre communication
 
-Définissez des objectifs de communication concrets et mesurables. Pilotez avec des indicateurs clés intégrés à un tableau de bord adapté à vos besoins.  
+Définissez des objectifs de communication concrets et mesurables. Pilotez avec des indicateurs clés intégrés à un tableau de bord adapté à vos besoins.
 
 <footer class="container-full">
 <div class="container">
