@@ -117,8 +117,9 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 ## Projets récents
 <br/> 
+[dt-esthetique.ch](https://www.dt-esthetique.ch)<br/>
 Stratégie, identité graphique, contenu et développement web
-[dt-esthetique.ch](https://www.dt-esthetique.ch)<br/> <br/>  
+ <br/>  <br/>  
 
 # Assurez la performance de votre communication
 
