@@ -117,18 +117,16 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 ## Derniers projets
 
+[Cabinet de médecine esthétique](Https://dt-esthetique.ch) • Stratégie, identité graphique, contenu et développement web <br/>
+
+[Garage Grin](https://click.mlsend.com/link/c/YT0xNzAzNjc2OTc4MjU2NjgxNjIxJmM9ajNzOCZlPTAmYj02MTk1MzQ3MTcmZD1hMWo4djBj.4mgkyDzg2BCSNKe7Czcz0jdq78ozFEGMRbLMkCQvnbA) • Positionnement narratif, plan de communication simplifié, newsletter
+
 <br/>
+
 <br/>
 
-[Cabinet de médecine esthétique](Https://dt-esthetique.ch) • Stratégie, identité graphique, contenu et développement web <br/>  
-
-[Garage Grin](https://click.mlsend.com/link/c/YT0xNzAzNjc2OTc4MjU2NjgxNjIxJmM9ajNzOCZlPTAmYj02MTk1MzQ3MTcmZD1hMWo4djBj.4mgkyDzg2BCSNKe7Czcz0jdq78ozFEGMRbLMkCQvnbA) • Positionnement narratif, plan de communication simplifié, newsletter 
-
-<br/>  
-
-<br/> 
-
-# Assurez la performance de votre communication
+#   
+Assurez la performance de votre communication
 
 Définissez des objectifs de communication concrets et mesurables. Pilotez avec des indicateurs clés intégrés à un tableau de bord adapté à vos besoins.
 
