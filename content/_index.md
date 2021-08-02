@@ -115,7 +115,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 </div> </div> </div>
 
-## Derniers projets
+# Derniers projets
 
 [Cabinet de médecine esthétique](Https://dt-esthetique.ch) • Stratégie, identité graphique, contenu et développement web <br/>
 
