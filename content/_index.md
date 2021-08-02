@@ -115,6 +115,11 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 </div> </div> </div>
 
+#### **Projets récents**
+
+Stratégie, identité graphique, contenu et développement web<br/>  
+[dt-esthetique.ch](https://www.dt-esthetique.ch)<br/> <br/>  
+
 # Assurez la performance de votre communication
 
 Définissez des objectifs de communication concrets et mesurables. Pilotez avec des indicateurs clés intégrés à un tableau de bord adapté à vos besoins.
