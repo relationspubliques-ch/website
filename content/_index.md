@@ -117,7 +117,7 @@ Un accompagnement global n’est pas toujours abordable ou ne s’impose pas com
 
 ## Dernier projet
 
-[dt-esthetique.ch](https://www.dt-esthetique.ch)   Stratégie, identité graphique, contenu et développement web <br/>  
+[Cabinet de médecine esthétique](Https://dt-esthetique.ch)   Stratégie, identité graphique, contenu et développement web <br/>  
 
 [Garage Grin](https://click.mlsend.com/link/c/YT0xNzAzNjc2OTc4MjU2NjgxNjIxJmM9ajNzOCZlPTAmYj02MTk1MzQ3MTcmZD1hMWo4djBj.4mgkyDzg2BCSNKe7Czcz0jdq78ozFEGMRbLMkCQvnbA)   Positionnement narratif, plan de communication simplifié, newsletter <br/>  <br/>
 
